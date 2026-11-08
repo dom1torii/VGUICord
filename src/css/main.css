@@ -213,7 +213,7 @@ button:disabled {
 /* Apply regular background */
 .buttonWrapper_hfM7yP.attachButtonInner_7TM4SO, /* Message attachment button */
 .buttons_2x8-Qn > div, /* Right side message text area buttons */
-div[aria-label="Poll options"] > div, /* Poll option buttons */
+.answersContainer_D4-WfD > div, /* Poll option buttons */
 .addFriendInputWrapper_jF-DiS, /* Wrapper in add friend tab */
 .systemBar_3zSH5d .winButton_3zSH5d, /* Settings window buttons */
 .utilButtonWrapper_CXA5dw /* Quest top right buttons */ {
@@ -263,7 +263,7 @@ code /* code */ {
 .buttonWrapper_hfM7yP.attachButtonInner_7TM4SO, /* Message attachment button */
 #popout_3067 .item_M3qk4j, /* Message attachments popout buttons */
 .buttons_2x8-Qn > div, /* Right side message text area buttons */
-div[aria-label="Poll options"] > div, /* Poll option buttons */
+.answersContainer_D4-WfD > div, /* Poll option buttons */
 .card_ZjaEbs, /* Some cards, for example: channel settings -> integrations -> webhooks*/
 .card_rh88Fa, /* Some other cards like "Add your first app" on top of the text channel */
 .card_nkh6Dx, /* Some other cards like nitro tiers */
@@ -372,7 +372,7 @@ code, /* code */
 .sectionDivider_u88IQl, /* Home dividers */
 .sectionDivider_ysO7Gy, /* Channels dividers */
 .divider_6vIioY, /* Settings dividers */
-[data-list-item-id^="chat-messages___divider"]:has(.content_4TfzT5):not([aria-label^="new"]), /* Message date separator */
+.divider_SY_P2T:has(.content_4TfzT5):not(:has(.unreadPill_4TfzT5)), /* Message date separator */
 .divider_gtuI7R, /* Inbox message date separator */
 .separator_6zZYhF, /* Server settings separator */
 .tabs_TP1WMf:after, /* VC connection separator */
