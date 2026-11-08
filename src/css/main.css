@@ -203,131 +203,131 @@ button:disabled {
 }
 
 /* Remove borders */
-.container__9293f, /* Server top bar */
-.header_f37cb1, /* Server header */
-.sidebarList__5e434, /* Channel list */
-.container_c8ffbb /* Server member list container */ {
+.container_ybUK7Z, /* Server top bar */
+.header_XH4OpX, /* Server header */
+.sidebarList_pog62O, /* Channel list */
+.container_86es0b /* Server member list container */ {
   border: none !important;
 }
 
 /* Apply regular background */
-.buttonWrapper__24af7.attachButtonInner__0923f, /* Message attachment button */
-.buttons__74017 > div, /* Right side message text area buttons */
+.buttonWrapper_hfM7yP.attachButtonInner_7TM4SO, /* Message attachment button */
+.buttons_2x8-Qn > div, /* Right side message text area buttons */
 div[aria-label="Poll options"] > div, /* Poll option buttons */
-.addFriendInputWrapper__72ba7, /* Wrapper in add friend tab */
-.systemBar_c38106 .winButton_c38106, /* Settings window buttons */
-.utilButtonWrapper_b5b7aa /* Quest top right buttons */ {
+.addFriendInputWrapper_jF-DiS, /* Wrapper in add friend tab */
+.systemBar_3zSH5d .winButton_3zSH5d, /* Settings window buttons */
+.utilButtonWrapper_CXA5dw /* Quest top right buttons */ {
   background-color: var(--vguicord-bg) !important;
 }
 
 /* Apply secondary background */
-.scroller__629e4, /* Channels bar */
-.members_c8ffbb, /* Server members list */
-.member_c8ffbb, /* Singular member */
-.embedFull__623de, /* Embeds */
-.pollContainer_b7e1cb, /* Polls */
-.container_f69538, /* Poll results? */
-.input__72ba7, /* Enter a username input in add friend */
-.friendNoteTextArea__72ba7, /* Add friend optional input */
-.switchIndicator_a28278, .vc-switch-indicator, /* Switches */
-.quote__122e4, /* Quotes */
+.scroller_ysO7Gy, /* Channels bar */
+.members_86es0b, /* Server members list */
+.member_86es0b, /* Singular member */
+.embedFull_XyW1ZT, /* Embeds */
+.pollContainer_YUQhib, /* Polls */
+.container_D5ZFqQ, /* Poll results? */
+.input_jF-DiS, /* Enter a username input in add friend */
+.friendNoteTextArea_jF-DiS, /* Add friend optional input */
+.switchIndicator_9AraPt, .vc-switch-indicator, /* Switches */
+.quote_4dy_KE, /* Quotes */
 code /* code */ {
   background-color: var(--vguicord-secondary-bg) !important;
 }
 
 /* Apply accent */
-.item__58105 /* Server indicators */ {
+.item__o8_Xq /* Server indicators */ {
   background-color: var(--vguicord-accent) !important;
 }
 
 /* Apply regular border */
-.content__5e434, /* Main content */
-.folderGroupBackground__48112, /* Open folder group*/
-.content_f75fb0 > .chatContent_f75fb0, /* Chat box */
-.panels__5e434, /* User panel */
-.buttons__37e49 button, /* User panel buttons */
-.actionButtons_e131a9 button, /* User panel VC buttons */
-.clickable__9293f, /* Top channel bar buttons */
-.headerContent_f37cb1, /* Server header */
-.tutorialContainer__1f388 .wrapper_cc5dd2, /* Home button */
-.role_af3987, /* Profile roles */
-.bannerButton_fb7f94, /* Profile banner buttons */
-.progressContainer__0d0f9, /* Server boost progress */
-.popover_f84418, /* Some popovers */
-.menu_c1e9c4, /* Some popout menus */
-.menu_c1e9c4 div[role="group"] .item_c1e9c4, /* Popout group items */
-.customItem_c1e9c4, /* Popout emotes */
-.contentWrapper__08434, /* GIFs / Stickers / Emojis */
-.navButton__08434, /* GIFs etc. navigation buttons */
-.reactionTooltip_bbcccb, /* Reaction tooltips */
-.buttonWrapper__24af7.attachButtonInner__0923f, /* Message attachment button */
-#popout_3067 .item_c1e9c4, /* Message attachments popout buttons */
-.buttons__74017 > div, /* Right side message text area buttons */
+.content_pog62O, /* Main content */
+.folderGroupBackground_RTMSuZ, /* Open folder group*/
+.content_z_gUBg > .chatContent_z_gUBg, /* Chat box */
+.panels_pog62O, /* User panel */
+.buttons_g6VwXp button, /* User panel buttons */
+.actionButtons_9U6LUN button, /* User panel VC buttons */
+.clickable_ybUK7Z, /* Top channel bar buttons */
+.headerContent_XH4OpX, /* Server header */
+.tutorialContainer_1IyMuq .wrapper_hqZPsU, /* Home button */
+.role_xL50-d, /* Profile roles */
+.bannerButton_C4gRrZ, /* Profile banner buttons */
+.progressContainer_BFMMcK, /* Server boost progress */
+.popover_DpHsW6, /* Some popovers */
+.menu_M3qk4j, /* Some popout menus */
+.menu_M3qk4j div[role="group"] .item_M3qk4j, /* Popout group items */
+.customItem_M3qk4j, /* Popout emotes */
+.contentWrapper_58b0l2, /* GIFs / Stickers / Emojis */
+.navButton_58b0l2, /* GIFs etc. navigation buttons */
+.reactionTooltip_5l5ajC, /* Reaction tooltips */
+.buttonWrapper_hfM7yP.attachButtonInner_7TM4SO, /* Message attachment button */
+#popout_3067 .item_M3qk4j, /* Message attachments popout buttons */
+.buttons_2x8-Qn > div, /* Right side message text area buttons */
 div[aria-label="Poll options"] > div, /* Poll option buttons */
-.card_dc2e44, /* Some cards, for example: channel settings -> integrations -> webhooks*/
-.card_aae012, /* Some other cards like "Add your first app" on top of the text channel */
-.card_a2332b, /* Some other cards like nitro tiers */
-.container__39957, /* Send a gift "1 gift away container" thingy */
-.closeButton_c2b141, /* Close button in settings and other places */
-.overlay_c0bea0, /* Profile buttons */
-.container__62dd3, /* Some profile cards, for example: favorite game */
-.tabBar__133bf > div, /* Friends tabs */
-.actionButton_f8fa06, /* Friend action buttons */
-.addFriendInputWrapper__72ba7, /* Wrapper in add friend tab */
-.bar__7aaec, /* "New Unreads" thingy */
-.reactionBtn__23977, /* React button */
-.reaction__23977:has([aria-pressed="false"]), /* Reactions (non reacted) */
-.nonVisualMediaItem_f4758a, /* Text file message container */
-.mainCard_f369db:not(.header_f369db), /* Forum cards */
-.pill_a2c9e8, /* Forum tag pills */
-.tagsButton_f369db, /* Forum tags dropdown */
-.sortDropdown_f369db, /* Forum sort dropdown */
-.container__5808f, /* Forum tags popup? */
-.container__01ae2, /* VC Chat */
-.utilButtonWrapper_b5b7aa, /* Quest top right buttons */
-.root__49fc1, /* Modal root? */
-.messagePreviewContainer_f96002, /* Message previews */
-.message_fd14e0, /* Delete message preview */
-.container__8a031, /* Start conversation */
-.topPill_aa8da2 > div, /* Message requests tabs */
-.preview__6b741, /* Accessibility preview */
-.box__376cb, /* Inbox messages */
-.contentHeader_e9e3ed, /* Settings header */
-.sidebar__409aa, /* Settings sidebar */
-.contentBody_e9e3ed, /* Settings content */
-.popout_a16aea, /* Voice devices dropdown */
-.selectDropdown__0edde, /* Other settings dropdowns for example noise suppression */
-.optionButtonWrapper__270d7:not(:has([aria-pressed="true"])), /* Server customization options */
-.container_dca174, /* Server profile preview */
-.sidebar__23e6b, /* Server settings sidebar */
-.pillContainer__9e06a > div, /* Screenshare top buttons */
-.sourceTypeButtons_b23ee9 > div, /* Screenshare source buttons */
-.autocomplete__6b0e0, /* Autocomplete popup */
-.buttonSection__1405b, /* VC buttons */
-.disconnect_f1ceac, /* VC disconnect button */
-.contentWrapper__9c62c, /* Apps popup */
-.sectionRowsContentContainer__927fc > div, /* App in apps popup */
-.card__88264, /* Event cards */
-.linkButton__972a0, /* Home left menu buttons */
-:where(.outer_c0bea0).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
-.bottomBar__0f481, /* Unread messages popup */
-.notice__6e2b9, /* Update and other notices */
-.button__6e2b9, /* Notice button */
-.upload_aa605f, /* Message attachment */
-.wrapper_f7ecac, /* Message attachment actions */
-.popover_d6f39b, /* Streaming popover when hovering user in vc */
-.searchResultsWrap_a98f3b, /* Server messages search container */
-.searchResult__80bf8, /* Server messages search result */
-.container__16eb0, /* Server message search filters and history */
+.card_ZjaEbs, /* Some cards, for example: channel settings -> integrations -> webhooks*/
+.card_rh88Fa, /* Some other cards like "Add your first app" on top of the text channel */
+.card_nkh6Dx, /* Some other cards like nitro tiers */
+.container_xs4xcr, /* Send a gift "1 gift away container" thingy */
+.closeButton_e76OBR, /* Close button in settings and other places */
+.overlay_P1YEjQ, /* Profile buttons */
+.container_FNEkcu, /* Some profile cards, for example: favorite game */
+.tabBar_zrUwGA > div, /* Friends tabs */
+.actionButton_5GqXgh, /* Friend action buttons */
+.addFriendInputWrapper_jF-DiS, /* Wrapper in add friend tab */
+.bar_t1P8Sn, /* "New Unreads" thingy */
+.reactionBtn_MmKct8, /* React button */
+.reaction_MmKct8:has([aria-pressed="false"]), /* Reactions (non reacted) */
+.nonVisualMediaItem_idVBIj, /* Text file message container */
+.mainCard_BkGrJJ:not(.header_BkGrJJ), /* Forum cards */
+.pill_snX-u4, /* Forum tag pills */
+.tagsButton_BkGrJJ, /* Forum tags dropdown */
+.sortDropdown_BkGrJJ, /* Forum sort dropdown */
+.container_r0937z, /* Forum tags popup? */
+.container_FrbQJp, /* VC Chat */
+.utilButtonWrapper_CXA5dw, /* Quest top right buttons */
+.root__KoJTP, /* Modal root? */
+.messagePreviewContainer_QOd4rY, /* Message previews */
+.message_LE5yVN, /* Delete message preview */
+.container_dvN-MP, /* Start conversation */
+.topPill_6zZYhF > div, /* Message requests tabs */
+.preview_TpS9Es, /* Accessibility preview */
+.box_0JZW4Z, /* Inbox messages */
+.contentHeader_3Rvb29, /* Settings header */
+.sidebar_cR4ic2, /* Settings sidebar */
+.contentBody_3Rvb29, /* Settings content */
+.popout_uFkqU2, /* Voice devices dropdown */
+.selectDropdown_vWC4bk, /* Other settings dropdowns for example noise suppression */
+.optionButtonWrapper_87WSWY:not(:has([aria-pressed="true"])), /* Server customization options */
+.container_Xweo-z, /* Server profile preview */
+.sidebar_jnk11m, /* Server settings sidebar */
+.pillContainer_I4ubrz > div, /* Screenshare top buttons */
+.sourceTypeButtons_AtvFBu > div, /* Screenshare source buttons */
+.autocomplete_rg6La1, /* Autocomplete popup */
+.buttonSection_9bvEB0, /* VC buttons */
+.disconnect_K9Xq13, /* VC disconnect button */
+.contentWrapper_Z0Mo0M, /* Apps popup */
+.sectionRowsContentContainer_OfZRPz > div, /* App in apps popup */
+.card__wH91U, /* Event cards */
+.linkButton_zln_tS, /* Home left menu buttons */
+:where(.outer_P1YEjQ).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
+.bottomBar_j9Vvzj, /* Unread messages popup */
+.notice_Q02kKo, /* Update and other notices */
+.button_Q02kKo, /* Notice button */
+.upload_JyxBSo, /* Message attachment */
+.wrapper_Z0MHyc, /* Message attachment actions */
+.popover_81IzEA, /* Streaming popover when hovering user in vc */
+.searchResultsWrap_QHVbp3, /* Server messages search container */
+.searchResult_N3Anbl, /* Server messages search result */
+.container_cbVzxY, /* Server message search filters and history */
 .visual-refresh .vc-plugins-info-card, /* Vencord base cards */
 .visual-refresh .vc-plugin-stats, /* Vencord plugin stats */
 .vc-card-primary, /* Vencord cards */
 .vc-addon-card, /* Vencord plugin cards */
-.authBox__921c5, /* Login box */
-.list__920b8, /* Login users list */
-.button_a22cb0, /* Login buttons */
-.backForwardButtons__63abb > div, /* Back/forward buttons (top left) */
-.winButtons_c38106 > div /* Window buttons */ {
+.authBox_rN1Ls3, /* Login box */
+.list_xu8B3s, /* Login users list */
+.button_F7qvhY, /* Login buttons */
+.backForwardButtons_nS9Yqn > div, /* Back/forward buttons (top left) */
+.winButtons_3zSH5d > div /* Window buttons */ {
   border: 1px solid !important;
   border-color: var(--vguicord-light-border) var(--vguicord-dark-border)
     var(--vguicord-dark-border) var(--vguicord-light-border) !important;
@@ -341,42 +341,42 @@ div[aria-label="Poll options"] > div, /* Poll option buttons */
 }
 
 /* Apply secondary border */
-.scroller__629e4, /* Channels bar */
-.members_c8ffbb, /* Server members list */
-.searchBar_c322aa, /* Message search bar container */
-.channelTextArea__74017, /* Message text area */
-.pollContainer_b7e1cb, /* Polls */
-.container_f69538, /* Poll results? */
-.wrapper__72c38, /* Some input wrappers*/
-.friendNoteTextArea__72ba7, /* Add friend optional input */
-.switchIndicator_a28278, .vc-switch-indicator, /* Switches */
-.header_f369db, /* Forum search box */
-.checkboxIndicator__714a9, /* Checkboxes */
-.input_ac6cb0, /* Start conversation input */
+.scroller_ysO7Gy, /* Channels bar */
+.members_86es0b, /* Server members list */
+.searchBar_i16Ad0, /* Message search bar container */
+.channelTextArea_2x8-Qn, /* Message text area */
+.pollContainer_YUQhib, /* Polls */
+.container_D5ZFqQ, /* Poll results? */
+.wrapper_UcGqzv, /* Some input wrappers*/
+.friendNoteTextArea_jF-DiS, /* Add friend optional input */
+.switchIndicator_9AraPt, .vc-switch-indicator, /* Switches */
+.header_BkGrJJ, /* Forum search box */
+.checkboxIndicator_vTUVyc, /* Checkboxes */
+.input_a1DYes, /* Start conversation input */
 code, /* code */
-.input__0ed4f /* Login inputs */ {
+.input_b-mzk1 /* Login inputs */ {
   border: 1px solid !important;
   border-color: var(--vguicord-dark-border) var(--vguicord-light-border)
     var(--vguicord-light-border) var(--vguicord-dark-border) !important;
 }
 
 /* Special border just for embeds */
-.embedFull__623de /* Embeds */ {
+.embedFull_XyW1ZT /* Embeds */ {
   border-top: 1px solid var(--vguicord-dark-border) !important;
   border-right: 1px solid var(--vguicord-light-border) !important;
   border-bottom: 1px solid var(--vguicord-light-border) !important;
 }
 
 /* Separator */
-.guildSeparator__252b6, /* Servers and home separator */
-.sectionDivider_e6b769, /* Home dividers */
-.sectionDivider__629e4, /* Channels dividers */
-.divider__1de9c, /* Settings dividers */
-[data-list-item-id^="chat-messages___divider"]:has(.content__908e2):not([aria-label^="new"]), /* Message date separator */
-.divider_d06995, /* Inbox message date separator */
-.separator_aa8da2, /* Server settings separator */
-.tabs__50387:after, /* VC connection separator */
-.divider__971b5, /* Server message search filters and history separator */
+.guildSeparator_3WHVfy, /* Servers and home separator */
+.sectionDivider_u88IQl, /* Home dividers */
+.sectionDivider_ysO7Gy, /* Channels dividers */
+.divider_6vIioY, /* Settings dividers */
+[data-list-item-id^="chat-messages___divider"]:has(.content_4TfzT5):not([aria-label^="new"]), /* Message date separator */
+.divider_gtuI7R, /* Inbox message date separator */
+.separator_6zZYhF, /* Server settings separator */
+.tabs_TP1WMf:after, /* VC connection separator */
+.divider_lm2_KW, /* Server message search filters and history separator */
 .vc-divider /* Vencord dividers */ {
   height: 0 !important;
   background-color: transparent !important;
@@ -387,8 +387,8 @@ code, /* code */
 }
 
 /* Separator using after */
-.section__409aa, /* Settings categories */
-.divider__13533 /* Autocomplete separator */ {
+.section_cR4ic2, /* Settings categories */
+.divider_CAMiwx /* Autocomplete separator */ {
   &::after {
     content: "";
     height: 0;
@@ -402,9 +402,9 @@ code, /* code */
 }
 
 /* Vertical separator */
-.winButtons_c38106::before, /* Left of win buttons */
-.separator__841c8, /* Left of reply close button */
-.separator_f84418 /* Message hover popup separator */ {
+.winButtons_3zSH5d::before, /* Left of win buttons */
+.separator_rE8-46, /* Left of reply close button */
+.separator_DpHsW6 /* Message hover popup separator */ {
   width: 0 !important;
   border-top: 0 !important;
   border-bottom: 0 !important;
@@ -413,93 +413,93 @@ code, /* code */
 }
 
 /* Apply regular box shadow */
-.folderButton__48112[aria-expanded="false"] /* Closed folder */ {
+.folderButton_RTMSuZ[aria-expanded="false"] /* Closed folder */ {
   box-shadow: var(--vguicord-box-shadow) !important;
 }
 
 /* Remove border */
-.footer__4d95d, /* i forgor */
-.searchBar_e6b769, /* "Find or start a conversation" */
-.container__0d0f9, /* Boost goal */
-.section__409aa, /* Settings categories */
-.channelHeader__5d903 {
+.footer_BOOBu-, /* i forgor */
+.searchBar_u88IQl, /* "Find or start a conversation" */
+.container_BFMMcK, /* Boost goal */
+.section_cR4ic2, /* Settings categories */
+.channelHeader_8ZcKCk {
   border: none !important;
 }
 
 /* Apply margin to separate the content */
-.content__5e434, /* Main content */
-.scroller__629e4, /* Channels bar */
-.members_c8ffbb, /* Server members list */
-.sidebar__409aa, /* Settings sidebar */
-.sidebar__23e6b, /* Server settings sidebar */
-.notice__6e2b9, /* Update and other notices */
-.searchResultsWrap_a98f3b /* Server messages search container */ {
+.content_pog62O, /* Main content */
+.scroller_ysO7Gy, /* Channels bar */
+.members_86es0b, /* Server members list */
+.sidebar_cR4ic2, /* Settings sidebar */
+.sidebar_jnk11m, /* Server settings sidebar */
+.notice_Q02kKo, /* Update and other notices */
+.searchResultsWrap_QHVbp3 /* Server messages search container */ {
   margin: 5px !important;
 }
 
 /* Only top right bottom margin */
-.container__01ae2, /* VC Chat */
-.contentHeader_e9e3ed /* Settings header */ {
+.container_FrbQJp, /* VC Chat */
+.contentHeader_3Rvb29 /* Settings header */ {
   margin: 5px 5px 5px 0px;
 }
 
 /* Only bottom and right margin */
-.contentBody_e9e3ed /* Settings content */ {
+.contentBody_3Rvb29 /* Settings content */ {
   margin: 0 5px 5px 0;
 }
 
 /* Only top and bottom margin */
-.content_f75fb0 .chatContent_f75fb0, /* Chat box */
-.tutorialContainer__1f388 .wrapper_cc5dd2 /* Home button */ {
+.content_z_gUBg .chatContent_z_gUBg, /* Chat box */
+.tutorialContainer_1IyMuq .wrapper_hqZPsU /* Home button */ {
   margin-block: 5px !important;
 }
 
 /* Gap */
-.backForwardButtons__63abb, /* back forward buttons (top left) */
-.sectionRowsContentContainer__927fc /* App lists in apps popup */ {
+.backForwardButtons_nS9Yqn, /* back forward buttons (top left) */
+.sectionRowsContentContainer_OfZRPz /* App lists in apps popup */ {
   gap: 5px;
 }
 
 /* Remove margin */
-.search__49676 /* Message search bar */ {
+.search_bWCaDq /* Message search bar */ {
   margin: 0 !important;
 }
 
 /* Apply padding to separate content */
-.container__9293f, /* Top channel bar */
-.aside_f58343 /* User profile sidebar */ {
+.container_ybUK7Z, /* Top channel bar */
+.aside_HbUF2J /* User profile sidebar */ {
   padding: 5px !important;
 }
 
 /* Apply accent text color */
-.container__13cf1 /* Different headers, adds some diversity? */ {
+.container_kRH1UI /* Different headers, adds some diversity? */ {
   color: var(--vguicord-accent);
 }
 
 /* Unround */
-.outer_ab8609:after, .outer_ab8609:before /* Profile bubble */ {
+.outer_rmCN9_:after, .outer_rmCN9_:before /* Profile bubble */ {
   border-radius: 0;
 }
 
 /* Fix channels bar going under the user panel */
-.container__2637a /* Channels bar container */ {
+.container_H5ozaj /* Channels bar container */ {
   padding-bottom: calc(
     var(--custom-app-panels-height, 0) + var(--space-xs)
   ) !important;
 }
 
 /* Match message search bar width with member list */
-.search__49676 /* Message search bar */ {
+.search_bWCaDq /* Message search bar */ {
   flex: 0 1 var(--custom-member-list-width) !important;
   width: var(--custom-member-list-width) !important;
   max-width: var(--custom-member-list-width) !important;
 }
 
 /* Fix tooltips */
-.caretIcon_fa450d .caretStroke_fa450d {
+.caretIcon_ZDdyhE .caretStroke_ZDdyhE {
   stroke: var(--vguicord-dark-border);
 }
-.tooltip_fa450d {
+.tooltip_ZDdyhE {
   box-shadow:
     inset 1px 1px 0 0 var(--vguicord-light-border),
     inset -1px -1px 0 0 var(--vguicord-dark-border),
@@ -507,22 +507,22 @@ code, /* code */
 }
 
 /* Fix user panel settings button */
-button.button__67645 {
+button.button_Y-8oZW {
   height: auto;
 }
 
 /* Separate audio buttons */
-.audioButtonParent__5e764 {
+.audioButtonParent_gKpIZP {
   gap: 3px !important;
 }
 
 /* Disable server list scrollbar */
-.scroller_ef3116::-webkit-scrollbar {
+.scroller_5dqHTG::-webkit-scrollbar {
   display: none !important;
 }
 
 /* Make vc user count styling less fancy */
-.wrapper__260e1 {
+.wrapper_QQRrAh {
   background-color: transparent !important;
   border: none !important;
   & > span {
@@ -532,165 +532,165 @@ button.button__67645 {
       border: none !important;
     }
   }
-  & > .users__260e1::after {
+  & > .users_QQRrAh::after {
     content: "/";
     margin-left: 5px;
   }
 }
 
 /* Fix popoup spacing */
-.menu_c1e9c4 div[role="group"]:not(.wrapper_f563df), /* Groups that are not emotes */
-.submenu_c1e9c4 > .scroller_c1e9c4 /* Popoup submenu with emotes */ {
+.menu_M3qk4j div[role="group"]:not(.wrapper_Qi4I4L), /* Groups that are not emotes */
+.submenu_M3qk4j > .scroller_M3qk4j /* Popoup submenu with emotes */ {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
-.menu_c1e9c4 /* Popout menu */ {
-  & .wrapper_f563df /* Emote group */ {
+.menu_M3qk4j /* Popout menu */ {
+  & .wrapper_Qi4I4L /* Emote group */ {
     padding-inline: 0 !important;
   }
 }
 
 /* Fix attachments popout spacing */
-#popout_3067 .scroller_c1e9c4 /* Message attachments popout buttons container */ {
+#popout_3067 .scroller_M3qk4j /* Message attachments popout buttons container */ {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
 /* Fix folders having extra space with space-xs set to 5 instead of 8 */
-.folderGuildsList__48112 {
+.folderGuildsList_RTMSuZ {
   --space-xs: 8px !important;
 }
 
 /* Remove friend list dividers */
-.content_d125d2 > .divider_cc6179 {
+.content_tqapBM > .divider_y75PxA {
   display: none;
 }
 
 /* Fix indentation for username and optional inputs in add friend */
-.input__72ba7,
-.friendNoteTextArea__72ba7 {
+.input_jF-DiS,
+.friendNoteTextArea_jF-DiS {
   padding-left: 10px;
   box-sizing: border-box;
 }
 /* Also remove border */
-.friendNoteTextContainer__72ba7 {
+.friendNoteTextContainer_jF-DiS {
   border: none !important;
 }
 
 /* Unround switch thumb and change its color */
-.switchIndicator_a28278 rect,
+.switchIndicator_9AraPt rect,
 .vc-switch-indicator rect /* Vencord switch */ {
   rx: 0;
   fill: var(--vguicord-accent) !important;
 }
 
 /* Disable vc chat box shadow thing on top */
-.chat_ee72fa::before {
+.chat_fjXxyy::before {
   box-shadow: none;
 }
 
 /* Disable box shadow */
-.message_fd14e0, /* Delete message preview */
-:where(.outer_c0bea0).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
-.bottomBar__0f481, /* Unread messages popup */
-.wrapper_f7ecac, /* Message attachment actions */
-.popover_d6f39b /* Streaming popover when hovering user in vc */ {
+.message_LE5yVN, /* Delete message preview */
+:where(.outer_P1YEjQ).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
+.bottomBar_j9Vvzj, /* Unread messages popup */
+.wrapper_Z0MHyc, /* Message attachment actions */
+.popover_81IzEA /* Streaming popover when hovering user in vc */ {
   box-shadow: none;
 }
 
 /* Remove stickers rounding */
-.inspectedIndicator_c6367b {
+.inspectedIndicator_5z8c5P {
   mask: none;
 }
 
 /* More spacing for left side buttons in home */
-.container_e45859:not(.dm__972a0) {
+.container__23ba6:not(.dm_zln_tS) {
   padding: 5px 0;
 }
 
 /* Fix banner size */
-.bannerImg_f37cb1 {
+.bannerImg_XH4OpX {
   width: calc(var(--custom-guild-sidebar-width) - 84px) !important;
   margin: 6px;
 }
 
 /* Remove banner background and shadow */
-.animatedContainer_f37cb1 {
+.animatedContainer_XH4OpX {
   background-color: transparent !important;
   box-shadow: none !important;
 }
 
 /* Fix server banner being below the channel list */
-.container_f37cb1 {
+.container_XH4OpX {
   z-index: 2 !important;
 }
 
 /* Disable server banner hover blur */
-.bannerVisible_f37cb1 .headerGlass_f37cb1 {
+.bannerVisible_XH4OpX .headerGlass_XH4OpX {
   backdrop-filter: none !important;
   border: none !important;
 }
 
 /* Disable login screen background */
-.artwork_eb4069 {
+.artwork__dBQf7 {
   display: none !important;
 }
 
 /* Add top padding */
-.base__5e434 /* Everything container */ {
+.base_pog62O /* Everything container */ {
   padding-top: 5px;
 }
 
 /* Fix window buttons position in settings */
-.systemBar_c38106 {
+.systemBar_3zSH5d {
   margin-top: 5px;
 }
 
 /* Fix title bar spacing */
-.bar_c38106 {
+.bar_3zSH5d {
   padding-right: 5px !important;
 }
 
 @container style(--rounded-avatars: true) {
   /* Round status indicators */
-  .wrapper__44b0c:has(rect)::after {
+  .wrapper_XpIUHy:has(rect)::after {
     border-radius: 50%;
   }
 
   /* Could be stupid but i couldn't find a better way to remove status indicator mask here */
-  .svg__44b0c > foreignObject {
+  .svg_XpIUHy > foreignObject {
     mask: none;
     clip-path: circle(50%);
   }
 }
 
 @container style(--rounded-avatars: false) {
-  .svg__44b0c > foreignObject {
+  .svg_XpIUHy > foreignObject {
     mask: none !important;
   }
 
-  .overlay__75742:after {
+  .overlay_WRLIGC:after {
     border-radius: 0 !important;
   }
 }
 
 @container style(--rounded-servers: false) {
-  .svg_cc5dd2 > mask /* Server mask */ {
+  .svg_hqZPsU > mask /* Server mask */ {
     display: none;
   }
 
   /* Only apply box shadow to server icons here because it would look weird if they're rounded */
-  .listItem__650eb > span:has(.blobContainer_e5445c) /* Items that are not home buttom (servers) */ {
+  .listItem_rwEpIL > span:has(.blobContainer_IaPwK5) /* Items that are not home buttom (servers) */ {
     box-shadow: var(--vguicord-box-shadow);
   }
 }
 
 @container style(--custom-status: true) {
   /* Move avatar decorations above the status */
-  .avatarDecorationContainer__44b0c {
+  .avatarDecorationContainer_XpIUHy {
     z-index: 1;
   }
 
@@ -702,12 +702,12 @@ button.button__67645 {
   }
 
   /* Remove status indicator mask from decorations */
-  .avatarDecorationContainer__44b0c > foreignObject {
+  .avatarDecorationContainer_XpIUHy > foreignObject {
     mask: none !important;
   }
 
   /* Re-add status indicators */
-  .wrapper__44b0c:has(rect)::after {
+  .wrapper_XpIUHy:has(rect)::after {
     content: "";
     display: block;
     position: absolute;
@@ -716,35 +716,35 @@ button.button__67645 {
   }
 
   /* Online + Online Mobile */
-  .wrapper__44b0c:has(.svg__44b0c rect[fill="#45a366"])::after,
-  .container__1ce5d:has(
-      > .mask_a423bd
-        .status_a423bd[style="background-color: rgb(69, 163, 102);"]
+  .wrapper_XpIUHy:has(.svg_XpIUHy rect[fill="#45a366"])::after,
+  .container_pfDcF-:has(
+      > .mask_PlwcO5
+        .status_PlwcO5[style="background-color: rgb(69, 163, 102);"]
     )::after {
     background: transparent !important;
     outline: 2px solid #57cbde;
   }
 
   /* Do not disturb */
-  .wrapper__44b0c:has(.svg__44b0c rect[fill="#da3e44"])::after {
+  .wrapper_XpIUHy:has(.svg_XpIUHy rect[fill="#da3e44"])::after {
     background: transparent !important;
     outline: 2px solid #ff4133;
   }
 
   /* Idle */
-  .wrapper__44b0c:has(.svg__44b0c rect[fill="#ffc04e"])::after {
+  .wrapper_XpIUHy:has(.svg_XpIUHy rect[fill="#ffc04e"])::after {
     background: transparent !important;
     outline: 2px solid #f58b05;
   }
 
   /* Offline */
-  .wrapper__44b0c:has(.svg__44b0c rect[fill="#84858d"])::after {
+  .wrapper_XpIUHy:has(.svg_XpIUHy rect[fill="#84858d"])::after {
     background: transparent !important;
     outline: 2px solid #898989;
   }
 
   /* Streaming */
-  .wrapper__44b0c:has(.svg__44b0c rect[fill="#9147ff"])::after {
+  .wrapper_XpIUHy:has(.svg_XpIUHy rect[fill="#9147ff"])::after {
     background: transparent !important;
     outline: 2px solid #9147ff;
   }
@@ -772,20 +772,20 @@ button.button__67645 {
 
 @container style(--steam-logo: true) {
   /* Replace home button */
-  .tutorialContainer__1f388 .wrapper_cc5dd2 > svg {
+  .tutorialContainer_1IyMuq .wrapper_hqZPsU > svg {
     opacity: 0 !important;
   }
 
-  .tutorialContainer__1f388 .wrapper_cc5dd2::after {
+  .tutorialContainer_1IyMuq .wrapper_hqZPsU::after {
     content: var(--vguicord-steam-logo) !important;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
   }
 
   /* Replace discord logo on login screen */
-  .characterBackground_eb4069 {
+  .characterBackground__dBQf7 {
     /* Remove discord logo */
-    & > .logoWithText_eb4069 {
+    & > .logoWithText__dBQf7 {
       opacity: 0 !important;
     }
 
@@ -811,19 +811,19 @@ button.button__67645 {
 }
 
 @container style(--hide-nameplates: true) {
-  .container_df39b2 {
+  .container_AFi54G {
     display: none !important;
   }
 }
 
 @container style(--hide-profile-effects: true) {
-  .profileEffects__0dd08 {
+  .profileEffects_ZjcCyW {
     display: none !important;
   }
 }
 
 @container style(--hide-profile-frames: true) {
-  .profileFrame__7d80f {
+  .profileFrame_v8co33 {
     display: none !important;
   }
 }
